@@ -1,5 +1,5 @@
 # 𝟭. 𝗦𝘁𝗲𝗿𝗻: Enhances log monitoring with regex support for Pod and Container IDs, similar to 'tail -f'.
-GitHub URL: https://lnkd.in/gbFmpTUu
+GitHub URL: https://github.com/stern/stern.git
 
 # 𝟮. 𝗥𝗕𝗔𝗖-𝘁𝗼𝗼𝗹: Simplifies querying and creating RBAC policies, with visualization features.
 GitHub URL: https://lnkd.in/ggqV8yGd
